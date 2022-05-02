@@ -1,0 +1,8 @@
+local.env
+*.secrets
+logs
+*.pyc
+*.egg-info
+target/
+.pytest_cache/
+env*/
